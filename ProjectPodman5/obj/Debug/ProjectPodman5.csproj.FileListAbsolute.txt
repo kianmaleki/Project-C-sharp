@@ -1,0 +1,11 @@
+E:\programing-files\c-sharp-project\ProjectPodman5\bin\Debug\ProjectPodman5.exe.config
+E:\programing-files\c-sharp-project\ProjectPodman5\bin\Debug\ProjectPodman5.exe
+E:\programing-files\c-sharp-project\ProjectPodman5\bin\Debug\ProjectPodman5.pdb
+E:\programing-files\c-sharp-project\ProjectPodman5\obj\Debug\ProjectPodman5.csproj.AssemblyReference.cache
+E:\programing-files\c-sharp-project\ProjectPodman5\obj\Debug\ProjectPodman5.Properties.Resources.resources
+E:\programing-files\c-sharp-project\ProjectPodman5\obj\Debug\ProjectPodman5.csproj.GenerateResource.cache
+E:\programing-files\c-sharp-project\ProjectPodman5\obj\Debug\ProjectPodman5.csproj.CoreCompileInputs.cache
+E:\programing-files\c-sharp-project\ProjectPodman5\obj\Debug\ProjectPodman5.exe
+E:\programing-files\c-sharp-project\ProjectPodman5\obj\Debug\ProjectPodman5.pdb
+E:\programing-files\c-sharp-project\ProjectPodman5\obj\Debug\ProjectPodman5.menu.resources
+E:\programing-files\c-sharp-project\ProjectPodman5\obj\Debug\ProjectPodman5.notepad.resources

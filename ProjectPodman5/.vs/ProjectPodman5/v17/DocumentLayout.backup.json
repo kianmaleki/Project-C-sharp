@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\programing-files\\c-sharp-project\\ProjectPodman5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4176282A-9D70-4F7A-AA7B-5294E8F13BFE}|ProjectPodman5.csproj|e:\\programing-files\\c-sharp-project\\projectpodman5\\users_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4176282A-9D70-4F7A-AA7B-5294E8F13BFE}|ProjectPodman5.csproj|solutionrelative:users_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4176282A-9D70-4F7A-AA7B-5294E8F13BFE}|ProjectPodman5.csproj|E:\\programing-files\\c-sharp-project\\ProjectPodman5\\users_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4176282A-9D70-4F7A-AA7B-5294E8F13BFE}|ProjectPodman5.csproj|solutionrelative:users_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "users_data.cs",
+              "DocumentMoniker": "E:\\programing-files\\c-sharp-project\\ProjectPodman5\\users_data.cs",
+              "RelativeDocumentMoniker": "users_data.cs",
+              "ToolTip": "E:\\programing-files\\c-sharp-project\\ProjectPodman5\\users_data.cs",
+              "RelativeToolTip": "users_data.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA0wC4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:22:56.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "users_data.cs [Design]",
+              "DocumentMoniker": "E:\\programing-files\\c-sharp-project\\ProjectPodman5\\users_data.cs",
+              "RelativeDocumentMoniker": "users_data.cs",
+              "ToolTip": "E:\\programing-files\\c-sharp-project\\ProjectPodman5\\users_data.cs [Design]",
+              "RelativeToolTip": "users_data.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:22:01.806Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
