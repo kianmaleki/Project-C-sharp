@@ -126,6 +126,9 @@ namespace ProjectPodman5
             string family = family_txt.Text.Trim();
 
             var results = tb_studentsTableAdapter.search(family);
+            if (results.Count == 0) {
+                MessageBox.Show("هیچ موردی یافت نشد", "نتیجه جستجو", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
             dataGridView1.DataSource = results;
         }
 

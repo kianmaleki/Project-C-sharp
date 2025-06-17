@@ -22,6 +22,7 @@ namespace ProjectPodman5
         private void newToolStripMenuItem_Click(object sender, EventArgs e)
         {
             textBox_notepad.Text = "";
+            currentFilePath = "";
         }
 
         private void openToolStripMenuItem_Click(object sender, EventArgs e)
