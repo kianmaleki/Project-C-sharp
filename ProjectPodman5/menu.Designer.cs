@@ -34,9 +34,10 @@
             // 
             // notepad_btn
             // 
-            this.notepad_btn.Location = new System.Drawing.Point(12, 12);
+            this.notepad_btn.Location = new System.Drawing.Point(18, 18);
+            this.notepad_btn.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.notepad_btn.Name = "notepad_btn";
-            this.notepad_btn.Size = new System.Drawing.Size(298, 55);
+            this.notepad_btn.Size = new System.Drawing.Size(447, 85);
             this.notepad_btn.TabIndex = 0;
             this.notepad_btn.Text = "Notepad";
             this.notepad_btn.UseVisualStyleBackColor = true;
@@ -44,9 +45,10 @@
             // 
             // users_data_btn
             // 
-            this.users_data_btn.Location = new System.Drawing.Point(12, 76);
+            this.users_data_btn.Location = new System.Drawing.Point(18, 117);
+            this.users_data_btn.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.users_data_btn.Name = "users_data_btn";
-            this.users_data_btn.Size = new System.Drawing.Size(298, 55);
+            this.users_data_btn.Size = new System.Drawing.Size(447, 85);
             this.users_data_btn.TabIndex = 0;
             this.users_data_btn.Text = "Users data";
             this.users_data_btn.UseVisualStyleBackColor = true;
@@ -54,14 +56,16 @@
             // 
             // menu
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(322, 143);
+            this.ClientSize = new System.Drawing.Size(483, 220);
             this.Controls.Add(this.users_data_btn);
             this.Controls.Add(this.notepad_btn);
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "menu";
             this.Text = "menu";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.menu_FormClosing);
+            this.Load += new System.EventHandler(this.menu_Load);
             this.ResumeLayout(false);
 
         }

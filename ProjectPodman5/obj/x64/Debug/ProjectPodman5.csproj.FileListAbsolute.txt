@@ -11,3 +11,16 @@ E:\programing-files\c-sharp-project\ProjectPodman5\obj\x64\Debug\ProjectPodman5.
 E:\programing-files\c-sharp-project\ProjectPodman5\obj\x64\Debug\ProjectPodman5.csproj.CoreCompileInputs.cache
 E:\programing-files\c-sharp-project\ProjectPodman5\obj\x64\Debug\ProjectPodman5.exe
 E:\programing-files\c-sharp-project\ProjectPodman5\obj\x64\Debug\ProjectPodman5.pdb
+D:\xampp\htdocs\Project-C-sharp\ProjectPodman5\bin\x64\Debug\students.accdb
+D:\xampp\htdocs\Project-C-sharp\ProjectPodman5\bin\x64\Debug\ProjectPodman5.exe.config
+D:\xampp\htdocs\Project-C-sharp\ProjectPodman5\bin\x64\Debug\ProjectPodman5.exe
+D:\xampp\htdocs\Project-C-sharp\ProjectPodman5\bin\x64\Debug\ProjectPodman5.pdb
+D:\xampp\htdocs\Project-C-sharp\ProjectPodman5\obj\x64\Debug\ProjectPodman5.csproj.AssemblyReference.cache
+D:\xampp\htdocs\Project-C-sharp\ProjectPodman5\obj\x64\Debug\ProjectPodman5.menu.resources
+D:\xampp\htdocs\Project-C-sharp\ProjectPodman5\obj\x64\Debug\ProjectPodman5.notepad.resources
+D:\xampp\htdocs\Project-C-sharp\ProjectPodman5\obj\x64\Debug\ProjectPodman5.Properties.Resources.resources
+D:\xampp\htdocs\Project-C-sharp\ProjectPodman5\obj\x64\Debug\ProjectPodman5.users_data.resources
+D:\xampp\htdocs\Project-C-sharp\ProjectPodman5\obj\x64\Debug\ProjectPodman5.csproj.GenerateResource.cache
+D:\xampp\htdocs\Project-C-sharp\ProjectPodman5\obj\x64\Debug\ProjectPodman5.csproj.CoreCompileInputs.cache
+D:\xampp\htdocs\Project-C-sharp\ProjectPodman5\obj\x64\Debug\ProjectPodman5.exe
+D:\xampp\htdocs\Project-C-sharp\ProjectPodman5\obj\x64\Debug\ProjectPodman5.pdb
